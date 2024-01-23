@@ -1,0 +1,15 @@
+.button{
+   font-size: 1.25rem;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   color: white;
+   width: 14vh;
+   height: 7vh;
+   border-radius: 0.5rem;
+   border: none;
+   cursor: pointer;
+   background-color: rgb(7, 170, 234);
+   transition: 0.3s ease-in-out;
+}
+.button:hover{
+    transform: scale(1.2);
+}
